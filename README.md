@@ -4,9 +4,8 @@ I'm Mitch Hijlkema and I'm a PHP Web Developer.
 
 #### About me
 
-- 🔭 I’m currently working on a socialization platform for gamers
 - 💬 Ask me about PHP, WordPress or Laravel
-
+- 🌱 I’m currently learning Rust
 <!--
 **Pridestalker/Pridestalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
