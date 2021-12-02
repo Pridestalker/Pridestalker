@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Mitch Hijlkema and I'm a PHP Web Developer.
+I'm Mitch Hijlkema and I'm a Web Developer. I prefer to work with PHP frameworks like WordPress and Laravel. And do not shy away from creating Front-End solutions using modern tooling. Including, but not limiting myself to, Vue.JS and ReactJS as JS Frameworks.
 
 #### About me
 
 - 💬 Ask me about PHP, WordPress or Laravel
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Custom Web Components with StencilJS and LitElement.
+- ⚡ Fun fact: I prefer TypeScript, but work mainly in plain old JavaScript
 
 ![Pridestalkers' github stats](https://github-readme-stats.vercel.app/api?username=pridestalker&show_icons=true&theme=radical&count_private=true)
 
