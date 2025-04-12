@@ -8,6 +8,8 @@ At the moment I work at a DHL company: HillebrandGori. Here my focus is on exter
 
 Besides this I dabble in Shopify consultancy to create storefront extensions using custom shopify apps for both basic and plus stores. To make this easier I'm working on a set of Web Components that offer a general framework using web native features named Zet.
 
+[![Pridestalkers trophies](https://github-profile-trophy.vercel.app/?username=pridestalker)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Pridestalkers' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pridestalker&layout=compact)
 
 <!-- ![Pridestalkers' github stats](https://github-readme-stats.vercel.app/api?username=pridestalker&theme=vue&count_private=true&hide=contribs)
